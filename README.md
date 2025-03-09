@@ -1,0 +1,3 @@
+# 🧬 Y-Trace: Visualisation des Migrations Humaines  
+
+Ce projet explore les migrations humaines anciennes à travers l'analyse des haplogroupes du chromosome Y. En utilisant des techniques de réduction de dimensionnalité comme **MDS (Multi-Dimensional Scaling)** et l’algorithme **SMACOF**, il permet de visualiser les similarités génétiques entre individus et leurs liens avec des régions géographiques spécifiques. Les données proviennent de la base **Allen Ancient DNA Database**, et l’analyse met en évidence des regroupements génétiques cohérents avec l’histoire des migrations. Ce travail offre une représentation claire et interactive des trajectoires migratoires humaines à travers le temps.
